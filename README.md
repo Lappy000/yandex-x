@@ -4,10 +4,8 @@ Telegram bot for extracting track information from Yandex Music links.
 
 ## 🤖 Bot Link
 
-**[Try the bot now: @YandexMusic_test3_bot](https://t.me/test_music1_bot)**
-
-**Bot Username:** @YandexMusic_test3_bot
-**Direct Link:** https://t.me/YandexMusic_test3_bot
+**[Try the bot now: @test_music1_bot ](https://t.me/test_music1_bot)**
+ 
 
 ## 📋 Description
 
@@ -29,7 +27,7 @@ This bot allows you to quickly extract information about tracks from Yandex Musi
 
 **No installation needed!** Just open the bot and start using it:
 
-1. Click here: **https://t.me/YandexMusic_test3_bot**
+1. Click here: **https://t.me/test_music1_bot**
 2. Press **Start**
 3. Send any Yandex Music track link
 4. Get instant track information!
